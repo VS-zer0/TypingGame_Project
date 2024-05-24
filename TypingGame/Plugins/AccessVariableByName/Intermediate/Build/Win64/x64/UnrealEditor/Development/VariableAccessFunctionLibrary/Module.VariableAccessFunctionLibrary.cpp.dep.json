@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\variableaccessfunctionlibrary\\module.variableaccessfunctionlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\typinggame\\intermediate\\build\\win64\\x64\\typinggameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\variableaccessfunctionlibrary\\definitions.variableaccessfunctionlibrary.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealeditor\\inc\\variableaccessfunctionlibrary\\uht\\variableaccessfunctionlibrary.init.gen.cpp",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealeditor\\inc\\variableaccessfunctionlibrary\\uht\\variableaccessfunctionlibraryutils.gen.cpp",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\variableaccessfunctionlibrary\\public\\variableaccessfunctionlibraryutils.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealeditor\\inc\\variableaccessfunctionlibrary\\uht\\variableaccessfunctionlibraryutils.generated.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealeditor\\inc\\variableaccessfunctionlibrary\\uht\\variablegetterfunctionlibrary.gen.cpp",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\variableaccessfunctionlibrary\\public\\variablegetterfunctionlibrary.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealeditor\\inc\\variableaccessfunctionlibrary\\uht\\variablegetterfunctionlibrary.generated.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealeditor\\inc\\variableaccessfunctionlibrary\\uht\\variablesetterfunctionlibrary.gen.cpp",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\variableaccessfunctionlibrary\\public\\variablesetterfunctionlibrary.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealeditor\\inc\\variableaccessfunctionlibrary\\uht\\variablesetterfunctionlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

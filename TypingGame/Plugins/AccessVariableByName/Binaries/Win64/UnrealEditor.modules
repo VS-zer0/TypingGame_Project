@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"AccessVariableByName": "UnrealEditor-AccessVariableByName.dll",
+		"VariableAccessFunctionLibrary": "UnrealEditor-VariableAccessFunctionLibrary.dll"
+	}
+}

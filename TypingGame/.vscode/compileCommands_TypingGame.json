@@ -1,0 +1,330 @@
+[
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\AccessVariableByName.Build.cs",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Private\\AccessVariableByName.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Private\\AccessVariableByNameUtils.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Private\\K2Node_DynamicGetVariableByName.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Private\\K2Node_DynamicSetVariableByName.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Private\\K2Node_GetVariableByName.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Private\\K2Node_SetVariableByName.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Private\\SGraphNodeDynamicGetVariableByNameNode.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Private\\SGraphNodeDynamicSetVariableByNameNode.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Public\\AccessVariableByNameModule.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Public\\AccessVariableByNameUtils.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Public\\K2Node_DynamicGetVariableByName.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Public\\K2Node_DynamicSetVariableByName.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Public\\K2Node_GetVariableByName.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Public\\K2Node_SetVariableByName.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Public\\SGraphNodeDynamicGetVariableByNameNode.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\Public\\SGraphNodeDynamicSetVariableByNameNode.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\AccessVariableByName.25.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\Private\\VariableAccessFunctionLibrary.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\VariableAccessFunctionLibrary.26.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\Private\\VariableAccessFunctionLibraryUtils.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\VariableAccessFunctionLibrary.26.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\Private\\VariableGetterFunctionLibrary.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\VariableAccessFunctionLibrary.26.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\Private\\VariableSetterFunctionLibrary.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\VariableAccessFunctionLibrary.26.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\Public\\VariableAccessFunctionLibraryModule.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\VariableAccessFunctionLibrary.26.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\Public\\VariableAccessFunctionLibraryUtils.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\VariableAccessFunctionLibrary.26.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\Public\\VariableGetterFunctionLibrary.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\VariableAccessFunctionLibrary.26.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\Public\\VariableSetterFunctionLibrary.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\VariableAccessFunctionLibrary.26.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\VariableAccessFunctionLibrary.Build.cs",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\VariableAccessFunctionLibrary.26.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\BasicEnemy.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\BasicEnemy.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\Private\\MeleeAIController.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\Private\\ReadWriteFile.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\Public\\MeleeAIController.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\Public\\ReadWriteFile.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\TypeToInteract.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\TypeToInteract.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\TypingCharacter.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\TypingCharacter.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\TypingGame.Build.cs",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\TypingGame.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\TypingGame.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\TypingGameGameMode.cpp",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\TypingGame\\Source\\TypingGame\\TypingGameGameMode.h",
+		"arguments": [
+			"D:\\Program Files\\Microsoft Visual Studio\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\TypingGame\\.vscode\\compileCommands_TypingGame\\TypingGame.1.rsp"
+		],
+		"directory": "D:\\Games\\UE_5.4\\Engine\\Source"
+	}
+]

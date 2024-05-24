@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AccessVariableByName.cpp.obj": [
+			"AccessVariableByName.init.gen.cpp.obj",
+			"K2Node_DynamicGetVariableByName.gen.cpp.obj",
+			"K2Node_DynamicSetVariableByName.gen.cpp.obj",
+			"K2Node_GetVariableByName.gen.cpp.obj",
+			"K2Node_SetVariableByName.gen.cpp.obj",
+			"AccessVariableByName.cpp.obj",
+			"AccessVariableByNameUtils.cpp.obj",
+			"K2Node_DynamicGetVariableByName.cpp.obj",
+			"K2Node_DynamicSetVariableByName.cpp.obj",
+			"K2Node_GetVariableByName.cpp.obj",
+			"K2Node_SetVariableByName.cpp.obj",
+			"SGraphNodeDynamicGetVariableByNameNode.cpp.obj",
+			"SGraphNodeDynamicSetVariableByNameNode.cpp.obj"
+		]
+	}
+}

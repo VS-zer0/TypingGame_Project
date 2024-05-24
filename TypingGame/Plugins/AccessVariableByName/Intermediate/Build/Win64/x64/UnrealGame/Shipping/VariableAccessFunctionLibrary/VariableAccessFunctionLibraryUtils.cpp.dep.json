@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\variableaccessfunctionlibrary\\private\\variableaccessfunctionlibraryutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\typinggame\\intermediate\\build\\win64\\x64\\typinggame\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\variableaccessfunctionlibrary\\definitions.variableaccessfunctionlibrary.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\variableaccessfunctionlibrary\\public\\variableaccessfunctionlibraryutils.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealgame\\inc\\variableaccessfunctionlibrary\\uht\\variableaccessfunctionlibraryutils.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

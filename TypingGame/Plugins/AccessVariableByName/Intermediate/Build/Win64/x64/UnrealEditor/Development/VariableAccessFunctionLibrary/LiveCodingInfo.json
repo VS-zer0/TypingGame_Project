@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VariableAccessFunctionLibrary.cpp.obj": [
+			"VariableAccessFunctionLibrary.init.gen.cpp.obj",
+			"VariableAccessFunctionLibraryUtils.gen.cpp.obj",
+			"VariableGetterFunctionLibrary.gen.cpp.obj",
+			"VariableSetterFunctionLibrary.gen.cpp.obj",
+			"VariableAccessFunctionLibrary.cpp.obj",
+			"VariableAccessFunctionLibraryUtils.cpp.obj",
+			"VariableGetterFunctionLibrary.cpp.obj",
+			"VariableSetterFunctionLibrary.cpp.obj"
+		]
+	}
+}

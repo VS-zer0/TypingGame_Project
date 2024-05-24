@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\accessvariablebyname\\private\\accessvariablebyname.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\typinggame\\intermediate\\build\\win64\\x64\\typinggameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\accessvariablebyname\\definitions.accessvariablebyname.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\accessvariablebyname\\public\\accessvariablebynamemodule.h",
+            "d:\\games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\edgraphutilities.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\accessvariablebyname\\public\\k2node_dynamicgetvariablebyname.h",
+            "d:\\games\\ue_5.4\\engine\\source\\editor\\blueprintgraph\\public\\blueprintactiondatabaseregistrar.h",
+            "d:\\games\\ue_5.4\\engine\\source\\editor\\blueprintgraph\\public\\blueprintactiondatabase.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\variableaccessfunctionlibrary\\public\\variableaccessfunctionlibraryutils.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealeditor\\inc\\variableaccessfunctionlibrary\\uht\\variableaccessfunctionlibraryutils.generated.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealeditor\\inc\\accessvariablebyname\\uht\\k2node_dynamicgetvariablebyname.generated.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\accessvariablebyname\\public\\k2node_dynamicsetvariablebyname.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealeditor\\inc\\accessvariablebyname\\uht\\k2node_dynamicsetvariablebyname.generated.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\accessvariablebyname\\public\\sgraphnodedynamicgetvariablebynamenode.h",
+            "d:\\games\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\kismetnodes\\sgraphnodek2base.h",
+            "d:\\games\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\sgraphnode.h",
+            "d:\\games\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\snodepanel.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\diffresults.h",
+            "d:\\games\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\marqueeoperation.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\accessvariablebyname\\public\\sgraphnodedynamicsetvariablebynamenode.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

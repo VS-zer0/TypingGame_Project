@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\typinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\typinggame\\uht\\readwritefile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\typinggame\\intermediate\\build\\win64\\x64\\typinggameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\typinggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\typinggame\\definitions.typinggame.h",
+            "d:\\unreal\\typinggame\\source\\typinggame\\public\\readwritefile.h",
+            "d:\\unreal\\typinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\typinggame\\uht\\readwritefile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

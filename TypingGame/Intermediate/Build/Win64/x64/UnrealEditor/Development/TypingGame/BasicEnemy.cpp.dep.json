@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\typinggame\\source\\typinggame\\basicenemy.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\typinggame\\intermediate\\build\\win64\\x64\\typinggameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\typinggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\typinggame\\definitions.typinggame.h",
+            "d:\\unreal\\typinggame\\source\\typinggame\\basicenemy.h",
+            "d:\\unreal\\typinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\typinggame\\uht\\basicenemy.generated.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "d:\\games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

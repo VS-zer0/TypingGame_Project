@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VariableAccessFunctionLibrary.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\TypingGame\Intermediate\Build\Win64\x64\TypingGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal\TypingGame\Plugins\AccessVariableByName\Intermediate\Build\Win64\x64\UnrealEditor\Development\VariableAccessFunctionLibrary\Module.VariableAccessFunctionLibrary.cpp.obj"
+"D:\Unreal\TypingGame\Plugins\AccessVariableByName\Intermediate\Build\Win64\x64\UnrealEditor\Development\VariableAccessFunctionLibrary\VariableAccessFunctionLibrary.cpp.obj"
+"D:\Unreal\TypingGame\Plugins\AccessVariableByName\Intermediate\Build\Win64\x64\UnrealEditor\Development\VariableAccessFunctionLibrary\VariableAccessFunctionLibraryUtils.cpp.obj"
+"D:\Unreal\TypingGame\Plugins\AccessVariableByName\Intermediate\Build\Win64\x64\UnrealEditor\Development\VariableAccessFunctionLibrary\VariableGetterFunctionLibrary.cpp.obj"
+"D:\Unreal\TypingGame\Plugins\AccessVariableByName\Intermediate\Build\Win64\x64\UnrealEditor\Development\VariableAccessFunctionLibrary\VariableSetterFunctionLibrary.cpp.obj"
+"D:\Unreal\TypingGame\Plugins\AccessVariableByName\Intermediate\Build\Win64\x64\UnrealEditor\Development\VariableAccessFunctionLibrary\Default.rc2.res"
+/OUT:"D:\Unreal\TypingGame\Plugins\AccessVariableByName\Intermediate\Build\Win64\x64\UnrealEditor\Development\VariableAccessFunctionLibrary\UnrealEditor-VariableAccessFunctionLibrary.lib"

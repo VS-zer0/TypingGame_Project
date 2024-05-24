@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\variableaccessfunctionlibrary\\private\\variablegetterfunctionlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\typinggame\\intermediate\\build\\win64\\x64\\typinggame\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\x64\\unrealgame\\development\\variableaccessfunctionlibrary\\definitions.variableaccessfunctionlibrary.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\variableaccessfunctionlibrary\\public\\variablegetterfunctionlibrary.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\source\\variableaccessfunctionlibrary\\public\\variableaccessfunctionlibraryutils.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealgame\\inc\\variableaccessfunctionlibrary\\uht\\variableaccessfunctionlibraryutils.generated.h",
+            "d:\\unreal\\typinggame\\plugins\\accessvariablebyname\\intermediate\\build\\win64\\unrealgame\\inc\\variableaccessfunctionlibrary\\uht\\variablegetterfunctionlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
