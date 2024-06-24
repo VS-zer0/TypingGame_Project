@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"D:\\Unreal\\TypingGame\\Source\\TypingGame\\TypingGame.Build.cs",
-		"D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\AccessVariableByName.Build.cs",
-		"D:\\Unreal\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\VariableAccessFunctionLibrary.Build.cs",
-		"D:\\Unreal\\TypingGame\\Source\\TypingGame.Target.cs",
-		"D:\\Unreal\\TypingGame\\Source\\TypingGameEditor.Target.cs"
+		"D:\\Unreal\\TypingGame_Project\\TypingGame\\Source\\TypingGame\\TypingGame.Build.cs",
+		"D:\\Unreal\\TypingGame_Project\\TypingGame\\Plugins\\AccessVariableByName\\Source\\AccessVariableByName\\AccessVariableByName.Build.cs",
+		"D:\\Unreal\\TypingGame_Project\\TypingGame\\Plugins\\AccessVariableByName\\Source\\VariableAccessFunctionLibrary\\VariableAccessFunctionLibrary.Build.cs",
+		"D:\\Unreal\\TypingGame_Project\\TypingGame\\Source\\TypingGame.Target.cs",
+		"D:\\Unreal\\TypingGame_Project\\TypingGame\\Source\\TypingGameEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.0"
 }
